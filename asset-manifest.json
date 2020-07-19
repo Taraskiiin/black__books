@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/black__books/static/css/main.1bb6d760.chunk.css",
+    "main.js": "/black__books/static/js/main.f43784f4.chunk.js",
+    "main.js.map": "/black__books/static/js/main.f43784f4.chunk.js.map",
+    "runtime-main.js": "/black__books/static/js/runtime-main.a2556930.js",
+    "runtime-main.js.map": "/black__books/static/js/runtime-main.a2556930.js.map",
+    "static/css/2.06d19e1c.chunk.css": "/black__books/static/css/2.06d19e1c.chunk.css",
+    "static/js/2.5c468bda.chunk.js": "/black__books/static/js/2.5c468bda.chunk.js",
+    "static/js/2.5c468bda.chunk.js.map": "/black__books/static/js/2.5c468bda.chunk.js.map",
+    "index.html": "/black__books/index.html",
+    "precache-manifest.3816db44226cc82cc52993f2eee67e19.js": "/black__books/precache-manifest.3816db44226cc82cc52993f2eee67e19.js",
+    "service-worker.js": "/black__books/service-worker.js",
+    "static/css/2.06d19e1c.chunk.css.map": "/black__books/static/css/2.06d19e1c.chunk.css.map",
+    "static/css/main.1bb6d760.chunk.css.map": "/black__books/static/css/main.1bb6d760.chunk.css.map",
+    "static/js/2.5c468bda.chunk.js.LICENSE.txt": "/black__books/static/js/2.5c468bda.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/black__books/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2556930.js",
+    "static/css/2.06d19e1c.chunk.css",
+    "static/js/2.5c468bda.chunk.js",
+    "static/css/main.1bb6d760.chunk.css",
+    "static/js/main.f43784f4.chunk.js"
+  ]
+}

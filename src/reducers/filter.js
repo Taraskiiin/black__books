@@ -1,21 +1,19 @@
 const initialState = {
-    items: [],
+    searchQuery: '',
+    filterBy: 'all',
   };
   export default (state = initialState, action) => {
     switch (action.type) {
-      case "ADD_BOOK":
+      case "SET_QUERY":
         return {
           ...state,
-          items: [
-              ...state.items,
-              action.payload,
-          ]
+          searchQuery: action.payload
         };
-      case "REMOVE_BOOK":
+      case "SET_FILTER":
         return {
           ...state,
-          items: state.items.filter(o => o.id != action.payload)
-        }
+          filterBy: action.payload
+        };
       default:
         return state;
     }

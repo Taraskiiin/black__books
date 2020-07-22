@@ -8,7 +8,7 @@ const initialState = {
           ...state,
           items: [
               ...state.items,
-              action.payload
+              action.payload,
           ]
         };
       case "REMOVE_BOOK":
